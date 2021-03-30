@@ -1,0 +1,68 @@
+﻿  test.cpp
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(80,15): error C2059: 语法错误:“)”
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(96,2): error C2143: 语法错误: 缺少“;”(在“标识符”的前面)
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(28,4): error C3861: “_start”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(96): message : 查看对正在编译的 类 模板 实例化“Vector<T>”的引用
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(29,5): error C3861: “_finish”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(30,5): error C3861: “_endofStorage”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(34,4): error C3861: “_start”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(35,5): error C3861: “_finish”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(35,2): error C2065: “_start”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(35,2): error C3861: “_start”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(36,5): error C3861: “_endofStorage”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(36,2): error C2065: “_start”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(36,2): error C3861: “_start”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(40,4): error C3861: “_start”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(46,4): error C3861: “_start”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(46,4): message : 此诊断出现在编译器生成的函数“Vector<T>::Vector(InputIterator,InputIterator)”中
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(47,5): error C3861: “_finish”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(47,5): message : 此诊断出现在编译器生成的函数“Vector<T>::Vector(InputIterator,InputIterator)”中
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(48,5): error C3861: “_endofStorage”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(48,5): message : 此诊断出现在编译器生成的函数“Vector<T>::Vector(InputIterator,InputIterator)”中
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(60,7): error C2065: “_finish”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(60,7): error C3861: “_finish”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(60,18): error C3861: “_endofStorage”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(62,18): error C2065: “_endofStorage”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(62,18): error C3861: “_endofStorage”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(62,53): error C3861: “capacity”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(66,4): error C2065: “_finish”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(66,4): error C3861: “_finish”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(68,5): error C2065: “_finish”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(68,5): error C3861: “_finish”: 找不到标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(80,15): error C2760: 语法错误: 意外标记 "}"，应为 ";"
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(97,2): error C2270: “size”: 非成员函数上不允许修饰符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(98,10): error C2065: “_finish”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(98,20): error C2065: “_start”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(102,2): error C2270: “capacity”: 非成员函数上不允许修饰符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(103,10): error C2065: “_endofStorage”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(103,26): error C2065: “_start”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(107,2): error C2079: “begin”使用未定义的 struct“std::iterator”
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(108,10): error C2065: “_start”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(112,2): error C2079: “end”使用未定义的 struct“std::iterator”
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(113,10): error C2065: “_finish”: 未声明的标识符
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(116,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(116,17): error C2146: 语法错误: 缺少“;”(在标识符“begin”的前面)
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(117,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(117,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(121,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(121,2): error C2086: “int const_iterator”: 重定义
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(116): message : 参见“const_iterator”的声明
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(121,17): error C2146: 语法错误: 缺少“;”(在标识符“end”的前面)
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(122,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(122,2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(126,1): error C2059: 语法错误:“private”
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(128,17): error C2133: “_start”: 未知的大小
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(128,11): error C2512: “std::iterator”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(6006,1): message : 参见“std::iterator”的声明
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(130,18): error C2133: “_finish”: 未知的大小
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(130,11): error C2512: “std::iterator”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(6006,1): message : 参见“std::iterator”的声明
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(132,24): error C2133: “_endofStorage”: 未知的大小
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(132,11): error C2512: “std::iterator”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(6006,1): message : 参见“std::iterator”的声明
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(133,1): error C2059: 语法错误:“}”
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(133,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(138,22): error C2760: 语法错误: 意外标记 "标识符"，应为 ";"
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(138,2): error C7510: “iterator”: 类型 从属名称的使用必须以“typename”为前缀
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(151,28): error C2760: 语法错误: 意外标记 "标识符"，应为 ";"
+C:\Users\中国人\Documents\bit91\C++\C++入门\vector使用\vector模拟实现\test.cpp3_30\test.cpp3_30\test.cpp(151,2): error C7510: “const_iterator”: 类型 从属名称的使用必须以“typename”为前缀
