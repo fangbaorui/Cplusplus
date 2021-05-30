@@ -1,0 +1,63 @@
+﻿  test.cpp
+C:\Users\中国人\Documents\bit91\C++\C++入门\哈希\Hashbucket_map_set\Hashbucket_map_set\test.cpp(253,15): warning C4244: “return”: 从“double”转换到“size_t”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash(114,1): error C3848: 具有类型“const _Hasher”的表达式会丢失一些 const-volatile 限定符以调用“size_t hashFunA::operator ()(const A &)”
+          with
+          [
+              _Hasher=hashFunA
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash(138): message : 查看指向正在编译的变量模板“const bool _Nothrow_hash<hashFunA,A>”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash(138): message : 在编译 类 模板 成员函数“size_t std::_Uhash_compare<_Kty,_Hasher,_Keyeq>::operator ()<_Key>(const _Keyty &) noexcept(<expr>) const”时
+          with
+          [
+              _Kty=A,
+              _Hasher=hashFunA,
+              _Keyeq=std::equal_to<A>,
+              _Key=A,
+              _Keyty=A
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash(919): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_List_const_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Uset_traits<_Kty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<A>(A &&)”的引用
+          with
+          [
+              _Ty=A,
+              _Kty=A,
+              _Hasher=hashFunA,
+              _Keyeq=std::equal_to<A>,
+              _Alloc=std::allocator<A>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash(919): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_List_const_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Uset_traits<_Kty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<A>(A &&)”的引用
+          with
+          [
+              _Ty=A,
+              _Kty=A,
+              _Hasher=hashFunA,
+              _Keyeq=std::equal_to<A>,
+              _Alloc=std::allocator<A>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash(918): message : 在编译 类 模板 成员函数“std::pair<std::_List_const_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Uset_traits<_Kty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::insert(A &&)”时
+          with
+          [
+              _Ty=A,
+              _Kty=A,
+              _Hasher=hashFunA,
+              _Keyeq=std::equal_to<A>,
+              _Alloc=std::allocator<A>
+          ]
+C:\Users\中国人\Documents\bit91\C++\C++入门\哈希\Hashbucket_map_set\Hashbucket_map_set\test.cpp(339): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_List_const_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Uset_traits<_Kty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::insert(A &&)”的引用
+          with
+          [
+              _Ty=A,
+              _Kty=A,
+              _Hasher=hashFunA,
+              _Keyeq=std::equal_to<A>,
+              _Alloc=std::allocator<A>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\unordered_set(65): message : 查看对正在编译的 类 模板 实例化“std::_Hash<std::_Uset_traits<_Kty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>”的引用
+          with
+          [
+              _Kty=A,
+              _Hasher=hashFunA,
+              _Keyeq=std::equal_to<A>,
+              _Alloc=std::allocator<A>
+          ]
+C:\Users\中国人\Documents\bit91\C++\C++入门\哈希\Hashbucket_map_set\Hashbucket_map_set\test.cpp(338): message : 查看对正在编译的 类 模板 实例化“std::unordered_set<A,hashFunA,std::equal_to<A>,std::allocator<A>>”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xhash(113,44): error C2056: 非法表达式
