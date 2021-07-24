@@ -1,0 +1,6 @@
+﻿  FileCompress.cpp
+  test.cpp
+C:\Users\中国人\Desktop\实习\文件压缩\文件压缩\test.cpp(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\中国人\Desktop\实习\文件压缩\文件压缩\test.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  正在生成代码...
+  文件压缩.vcxproj -> C:\Users\中国人\Desktop\实习\文件压缩\Debug\文件压缩.exe
