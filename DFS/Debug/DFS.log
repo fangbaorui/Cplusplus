@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\中国人\Desktop\高阶数据结构\DFS\DFS\test.cpp(10,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\中国人\Desktop\高阶数据结构\DFS\DFS\test.cpp(18,20): warning C4018: “<”: 有符号/无符号不匹配
+  DFS.vcxproj -> C:\Users\中国人\Desktop\高阶数据结构\DFS\Debug\DFS.exe
